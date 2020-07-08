@@ -14,9 +14,6 @@
     "type": "git",
     "url": "git://github.com/dxinef/less-plugin-px2rem.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "keywords": [
     "less",
     "plugin",

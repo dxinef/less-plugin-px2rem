@@ -1,0 +1,22 @@
+{
+  "name": "less-plugin-px2rem",
+  "version": "0.1.0",
+  "description": "Less plugin for convert px to rem units",
+  "main": "index.js",
+  "scripts": {},
+  "author": "dxinef",
+  "license": "MIT",
+  "dependencies": {
+    "postcss": "^7.0.32",
+    "postcss-px2rem": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dxinef/less-plugin-px2rem.git"
+  },
+  "keywords": [
+    "less",
+    "plugin",
+    "px2rem"
+  ]
+}
